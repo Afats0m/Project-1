@@ -7,6 +7,7 @@ Project Description :
 Usage:
 
  -Using navigation bar to navigate throw the sections and read topics
+ 
  -Active section to know make reader aware of what section he is reading
 
 Auther : Mustafa Kamel
